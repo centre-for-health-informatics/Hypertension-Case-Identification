@@ -1,0 +1,6 @@
+# Python Notebook Extra files
+.ipynb_checkpoints/
+
+*.csv
+
+.DS_Store
