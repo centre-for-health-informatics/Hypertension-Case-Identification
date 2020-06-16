@@ -1,6 +1,5 @@
-# Code for publication entitled "Improving Hypertension Case Identification Using Natural Language Processing and Machine Learning on Free-Text Electronic Medical Records"
+# Code for publication entitled "Explainable Data-Driven Hypertension Identification Using Inpatient EMR Clinical Notes"
 
-*Currently Submitted to [JAMIA](https://academic.oup.com/jamia)*
-
+*Currently Submitted to [BMC Medical Informatics and Decision Making](https://bmcmedinformdecismak.biomedcentral.com/)*
 
 The data to run the code contain sensitive health information, and therefore haven't been included in the repository.
