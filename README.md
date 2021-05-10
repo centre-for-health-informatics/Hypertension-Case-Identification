@@ -1,6 +1,6 @@
 # Code for publication entitled "Explainable Data-Driven Hypertension Identification Using Inpatient EMR Clinical Notes"
 
-![doi](https://zenodo.org/badge/doi/10.5281/zenodo.3897554.svg)
+[![DOI](https://zenodo.org/badge/202597662.svg)](https://zenodo.org/badge/latestdoi/202597662)
 
 *Currently Submitted to the [Canadian Medical Association Journal](https://www.cmaj.ca/)*
 
